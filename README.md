@@ -1,34 +1,33 @@
-## Online Keyboard Tester ⌨️
+## 온라인 키보드 테스터 ⌨️
 
 <p align="center">
-  <img src="https://prouskr.github.io/KeyboardTester2/img/demo.gif" alt="App Demo GIF">
+  <img src="https://prouskr.github.io/KeyboardTester2/img/demo.gif" alt="앱 데모 GIF">
   
 </p>
 
 <br/><br/>
 
-## Overview 🌐
-
-Welcome to the Online Keyboard Tester! This interactive web application is designed to help you ensure that every key on your keyboard is functioning perfectly. Whether you're a programmer, gamer, or just a keyboard enthusiast, it's essential to have confidence in your keyboard's reliability.
+## 개요 🌐
+온라인 키보드 테스터에 오신 것을 환영합니다! 이 상호작용적인 웹 애플리케이션은 키보드의 모든 키가 완벽하게 작동하는지 확인하는 데 도움을 주기 위해 설계되었습니다. 프로그래머든, 게이머든, 아니면 단순히 키보드 애호가든, 키보드의 신뢰성에 대한 확신을 갖는 것은 필수적입니다.
 <br/><br/>
 
-## How to Use 🚀
+## 사용 방법 🚀
 
-Just head over to **[온라인 키보드 웹사이트](https://prouskr.github.io/KeyboardTester2)** and start pressing those keys! It will instantly respond to your every keystroke.
+**[온라인 키보드 웹사이트](https://prouskr.github.io/KeyboardTester2)** 로 이동하여 키를 누르기 시작하세요! 키보드 입력에 즉시 반응할 것입니다.
 <br/><br/>
 
-## Features 🌟
+## 특징 🌟
 
-- **🔦 Comprehensive Testing:** Press every key and watch them light up! Make sure your keyboard is in perfect working order.
+- **🔦 포괄적인 테스트: 모든 키를 누르고 불이 들어오는 것을 확인하세요! 키보드가 완벽하게 작동하는지 확인합니다.
 
-- **🖌️ Themes:** Customize your testing experience with different themes. From "Retro" vibes to a cool "Navy Blue" look, find the one that suits you best.
+- **🖌️ 테마: 다양한 테마로 테스트 경험을 맞춤 설정하세요. "레트로" 분위기부터 멋진 "네이비 블루"까지, 가장 마음에 드는 것을 찾아보세요.
 
-- **⚙️ Layout Options:** Toggle between `Full-size` and `Tenkeyless` layouts for a personalized testing session.
+- **⚙️ 레이아웃 옵션: 개인화된 테스트 세션을 위해 풀 사이즈(Full-size)와 텐키리스(Tenkeyless) 레이아웃을 전환할 수 있습니다.
   <br/><br/>
 
-## Who is this Tool For? 🎯
+## 이 도구는 누구를 위한 것인가요? 🎯
 
-This tool is your go-to, whether you're part of:
+이 도구는 다음과 같은 분들에게 유용합니다.:
 <br/><br/>
 
 - **New Keyboard Owners**: Test your fresh or pre-loved keyboards and laptops for reliable functionality
@@ -44,76 +43,76 @@ This tool is your go-to, whether you're part of:
 - **Standard Windows Layout Users**: If you roll with the standard Windows layout, it's fine-tuned for you!
   <br/><br/>
 
-## Getting Started 🧑‍💻
+## 시작하기 🧑‍💻
 
-If you want to run this project locally or contribute to its development, follow these simple steps:
+이 프로젝트를 로컬에서 실행하거나 개발에 기여하고 싶다면 다음의 간단한 단계를 따르세요.
 
-**1.** Clone the repository to your local machine:
+**1.** 저장소를 로컬 컴퓨터에 복제합니다:
 
 ```bash
   git clone https://github.com/mostafa-abbasi/KeyboardTester.git
 ```
 
-**2.** Open the index.html file in your web browser.
+**2.** 웹 브라우저에서 index.html 파일을 엽니다.
 
-**3.** Start pressing those keys and have some fun! 🎉
+**3.** 키를 누르고 즐거운 시간을 보내세요! 🎉
 <br/><br/>
 
-## Limitations ⚠️
+## 제한 사항 ⚠️
 
-❗ Please be aware of the following limitations: ❗
+❗ 다음 제한 사항에 유의하세요: ❗
 
-- This tool **cannot** recognize the **`fn`** keypress on the keyboard due to it being a hardware key and not being registered by browser key events. As a result, pressing the **`fn`** key may not produce any visual feedback within the application.
-- While this tool is accessible on mobile browsers, please be aware that it is primarily optimized for desktop use. If possible, we **highly recommend** utilizing a tablet or switching your mobile orientation to horizontal mode for an enhanced experience. For optimal performance, consider using a desktop if available.
-- Special keys like media keys, macro keys, or other non-standard keys found on certain keyboards or laptops **are not** compatible with this tool.
-- Layouts other than QWERTY **may not** display accurately.
+- 이 도구는 하드웨어 키이며 브라우저 키 이벤트에 등록되지 않으므로 키보드의 fn 키 누름을 인식할 수 없습니다. 결과적으로 fn 키를 눌러도 애플리케이션 내에서 시각적인 피드백이 생성되지 않을 수 있습니다.
+- 이 도구는 모바일 브라우저에서도 접근 가능하지만, 주로 데스크톱 사용에 최적화되어 있음을 유의하십시오. 가능하다면 향상된 경험을 위해 태블릿을 사용하거나 모바일 방향을 가로 모드로 전환하는 것을 강력히 권장합니다. 최적의 성능을 위해서는 가능한 경우 데스크톱 사용을 고려하십시오.
+- 특정 키보드나 노트북에 있는 미디어 키, 매크로 키 또는 기타 비표준 키와 같은 특수 키는 이 도구와 호환되지 않습니다.
+- QWERTY 이외의 레이아웃은 정확하게 표시되지 **않을 수** 있습니다.
   <br/><br/>
 
-## FAQs and Troubleshooting 🛠️
+## FAQ 및 문제 해결 🛠️ 🛠️
 
-If you encounter any issues while using the Online Keyboard Tester, check out these frequently asked questions and troubleshooting tips:
+온라인 키보드 테스터를 사용하는 동안 문제가 발생하면 다음 FAQ 및 문제 해결 팁을 확인하십시오.
 <br/><br/>
 
-**Q: Will this tool handle touchpad keys, macros, media keys and etc.?**
+**Q: Q: 이 도구가 터치패드 키, 매크로, 미디어 키 등을 처리할 수 있습니까?**
 
-- A: Nope, this tool is more into the basic keyboard stuff. It will not recognize touchpad, macro, media, etc.
+- A: 아니요, 이 도구는 기본 키보드 기능에 더 중점을 둡니다. 터치패드, 매크로, 미디어 등은 인식하지 않습니다.
 
-**Q: Can I use this tool on mobile or tablet devices perfectly fine?**
+**Q: 이 도구를 모바일 또는 태블릿 장치에서 완벽하게 사용할 수 있습니까?**
 
-- A: Tuned for desktop use, but can work on mobile/tablet with an external keyboard and lackluster visuals
+- A: 데스크톱 사용에 맞춰져 있지만, 외부 키보드와 만족스럽지 못한 시각 효과로 모바일/태블릿에서도 작동할 수 있습니다.
 
-**Q: No visual feedback after 'fn' key press. What to do now?**
+**Q: 'fn' 키를 눌러도 시각적인 피드백이 없습니다. 어떻게 해야 합니까?**
 
-- A: 'fn' key is a hardware key and is not registered by browser key events. It can't be tested using this tool.
+- A: 'fn' 키는 하드웨어 키이며 브라우저 키 이벤트에 등록되지 않습니다. 이 도구를 사용하여 테스트할 수 없습니다.
 
-**Q: Certain keys doesn't register. Any recommendations?**
+**Q: 특정 키가 등록되지 않습니다. 권장 사항이 있습니까?**
 
-- A: It might be a hardware issue. Clean affected keys or refer to your keyboard's manual for troubleshooting.
+- A: 하드웨어 문제일 수 있습니다. 영향을 받는 키를 청소하거나 키보드 설명서를 참조하여 문제 해결을 시도하십시오.
 
-**Q: Works for non-standard layouts, like Apple Mac?**
+**Q: Apple Mac과 같은 비표준 레이아웃에서도 작동합니까?**
 
-- A: Primarily designed for standard QWERTY Windows/Linux layouts. May work with others, But not optimized.
+- A: 주로 표준 QWERTY Windows/Linux 레이아웃을 위해 설계되었습니다. 다른 레이아웃에서도 작동할 수 있지만, 최적화되지는 않았습니다.
 
-**Q: Recommended browsers for this web app?**
+**Q: 이 웹 앱에 권장되는 브라우저는 무엇입니까?**
 
-- A: Tested on Firefox, Edge and chrome. For the slickest experience, latest Chrome version is recommended.
+- A: Firefox, Edge 및 Chrome에서 테스트되었습니다. 가장 부드러운 경험을 위해서는 최신 Chrome 버전이 권장됩니다.
   <br/><br/>
 
-## Project Origins 🌱
+## 프로젝트 기원 🌱
 
-This project began as a creative exploration of web development and a playful fascination with keyboards. Over time, it has evolved into a handy tool for anyone seeking to validate their keyboard's functionality. In addition to its core feature, the Online Keyboard Tester now offers additional options like themes and layouts to enhance the testing experience.
+이 프로젝트는 웹 개발에 대한 창의적인 탐구와 키보드에 대한 즐거운 매력으로 시작되었습니다. 시간이 지남에 따라 키보드의 기능을 검증하려는 모든 사람에게 유용한 도구로 발전했습니다. 핵심 기능 외에도 온라인 키보드 테스터는 이제 테마 및 레이아웃 옵션과 같은 추가 옵션을 제공하여 테스트 경험을 향상시킵니다.
 <br/><br/>
 
-## Contributing 🤝
+## 기여 🤝
 
-If you're interested in contributing to this project, feel free to fork the repository and submit your own improvements. Whether it's adding new themes, enhancing keyboard layout options, or improving the code, your contributions are always welcome!
+이 프로젝트에 기여하는 데 관심이 있다면, 자유롭게 저장소를 포크하고 자신의 개선 사항을 제출하십시오. 새로운 테마를 추가하거나, 키보드 레이아웃 옵션을 개선하거나, 코드를 향상시키는 등 귀하의 기여는 언제나 환영합니다!
 
-You can contact me at mostafaabbac@gmail.com 📧
+mostafaabbac@gmail.com 📧으로 원작자에게 연락할 수 있습니다.
 <br/><br/>
 
-## License 📝
+## 라이선스 📝
 
-This project is open-source and available under the [MIT License](https://opensource.org/license/mit/). 📜
+이 프로젝트는 오픈 소스이며 [MIT 라이선스](https://opensource.org/license/mit/)에 따라 사용할 수 있습니다. 📜. 📜
 <br/><br/>
 
-Enjoy testing your keyboard! 😊
+키보드 테스트를 즐기세요! 😊
