@@ -14,7 +14,7 @@ Welcome to the Online Keyboard Tester! This interactive web application is desig
 
 ## How to Use 🚀
 
-Just head over to **[Online Keyboard Tester Website](https://mostafa-abbasi.github.io/KeyboardTester)** and start pressing those keys! It will instantly respond to your every keystroke.
+Just head over to **[온라인 키보드 웹사이트](https://prouskr.github.io/KeyboardTester2)** and start pressing those keys! It will instantly respond to your every keystroke.
 <br/><br/>
 
 ## Features 🌟
