@@ -30,17 +30,17 @@
 이 도구는 다음과 같은 분들에게 유용합니다.:
 <br/><br/>
 
-- **New Keyboard Owners**: Test your fresh or pre-loved keyboards and laptops for reliable functionality
+- **새 키보드 소유자: 새로 구입했거나 중고 키보드 및 노트북의 안정적인 기능을 테스트합니다.
   <br/><br/>
-- **Keyboard Geeks**: Ensure your personalized mech-keyboards rock after all those fancy modifications
+- **키보드 매니아: 모든 멋진 개조 후에 개인화된 기계식 키보드가 잘 작동하는지 확인합니다.
   <br/><br/>
-- **Fellow Gamers**: Put your gaming keyboard to the test with speed and simultaneous key pressing checks
+- **게이머: 속도 및 동시 키 누름 확인으로 게이밍 키보드를 테스트합니다.
   <br/><br/>
-- **Programmers**: Guarantee those keystrokes are flawless for your smooth coding adventures all-day long
+- **프로그래머: 하루 종일 원활한 코딩 모험을 위해 키 입력이 완벽한지 보장합니다.
   <br/><br/>
-- **Programmers (Again!)**: Dive into the codebase and get inspired on that sleek standard keyboard layout
+- **프로그래머 (또!): 코드베이스를 자세히 살펴보고 세련된 표준 키보드 레이아웃에서 영감을 얻으세요.
   <br/><br/>
-- **Standard Windows Layout Users**: If you roll with the standard Windows layout, it's fine-tuned for you!
+- **표준 Windows 레이아웃 사용자: 표준 Windows 레이아웃을 사용한다면, 당신을 위해 세밀하게 조정되었습니다!
   <br/><br/>
 
 ## 시작하기 🧑‍💻
